@@ -31,3 +31,6 @@ Step 4: Multi-variate graphical analysis
 
 Logit regression performed on attrition are the dependent variable with respect to independent variables:
 monthly income,training,years at company, years in current role, years with current manager, total working years, job satisfaction and job level
+
+## A brief Memo
+A brief memo is delivered to the manager about the important findings.
